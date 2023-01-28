@@ -1,5 +1,8 @@
 # Knee Bend Exercise Counter
 
+
+## NOTE: All the [fluctuation information](https://github.com/shadmanshaikh/kneebend/blob/master/all_the_fluctuating_frame/KneeBend-Scenes.csv) , [clips](https://github.com/shadmanshaikh/kneebend/tree/master/fluctuation_detected_vid) and [fluctuating frames](https://github.com/shadmanshaikh/kneebend/tree/master/all_the_fluctuating_frame) are present in the repo for veiwing
+
 ## STEPS:
 * Remove duplicate frames 
 * Configuring the Media Pipe
@@ -34,7 +37,6 @@ pip install ffmpeg-python
 ``
 or install [ffmpeg-git-full.7z](https://www.gyan.dev/ffmpeg/builds/)
 
-### All the [clips](https://github.com/shadmanshaikh/kneebend/tree/master/fluctuation_detected_vid) and [fluctuating frames](https://github.com/shadmanshaikh/kneebend/tree/master/all_the_fluctuating_frame) are present in the repo for veiwing
 
 
 
