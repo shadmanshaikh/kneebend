@@ -1,7 +1,7 @@
 # Knee Bend Exercise Counter
 
 
-## NOTE: All the [fluctuation information](https://github.com/shadmanshaikh/kneebend/blob/master/all_the_fluctuating_frame/KneeBend-Scenes.csv) , [clips](https://github.com/shadmanshaikh/kneebend/tree/master/fluctuation_detected_vid) and [fluctuating frames](https://github.com/shadmanshaikh/kneebend/tree/master/all_the_fluctuating_frame) are present in the repo for veiwing
+## NOTE: All the [fluctuation information](https://github.com/shadmanshaikh/kneebend/blob/master/all_the_fluctuating_frame/KneeBend-Scenes.csv) , [clips](https://github.com/shadmanshaikh/kneebend/tree/master/fluctuation_detected_vid) and [fluctuating frames](https://github.com/shadmanshaikh/kneebend/tree/master/all_the_fluctuating_frame) are present in the repo for viewing
 
 ## STEPS:
 * Remove duplicate frames 
